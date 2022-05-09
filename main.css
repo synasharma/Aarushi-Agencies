@@ -7,10 +7,10 @@ body {
     
 }
 
-.profile {
+#profile {
     width: 500px;
     
-  
+  text-align: center;
     
     margin-top: 100px;
 
@@ -75,7 +75,7 @@ img{
 
 }*/
 
-.menu {
+#myNavbar {
     
     position:fixed;
     width: 100%;
@@ -84,11 +84,11 @@ img{
     z-index: 12;
     cursor: pointer;
     background:#143F6B ;
-    color: white;
+   
 
 }
 
-.menu a {
+#myNavbar a {
     
 
     color: white;
